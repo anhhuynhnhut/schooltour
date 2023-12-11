@@ -2,7 +2,7 @@ const cacheName = "DefaultCompany-SchoolTour-0.1";
 const contentToCache = [
     "Build/shcooltour.loader.js",
     "Build/5d5da081feb1ad93a81367a2019ef65f.js",
-    "Build/e5ac1926304ff86a81a6e6552a5284cb.data",
+    "Build/843eb862e594de6a2acf808077106840.data",
     "Build/06ed8d8c8216ed7aa18b4cc4ef97ac5b.wasm",
     "TemplateData/style.css"
 
